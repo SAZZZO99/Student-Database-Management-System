@@ -10,3 +10,5 @@ Search- Enter any keyword in the query box and search will show you the relevant
 Update- Updates any changes applied to that particular given user.<br />
 Delete- Deletes the entire dataset selected.<br />
 Display- Views the entries till date.<br />
+Here is how the Exit button works:<br />
+
